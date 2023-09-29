@@ -21,6 +21,9 @@ Jorgelina Tissera
 
 Prediccion de afeccion Cardiaca
 
+# trello
+
+https://trello.com/w/proyectodeml1
 
 
 
