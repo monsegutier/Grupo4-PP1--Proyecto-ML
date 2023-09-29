@@ -6,9 +6,7 @@
 
 
 Christian Falco  
-
 Eduardo Figueroa  
-
 Sol Figueroa  
 Jorge Flores  
 Carlos Gimenez  
