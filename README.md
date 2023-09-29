@@ -5,18 +5,18 @@
 # Integrantes
 
 
-Christian Falco
+Christian Falco  
 
-Eduardo Figueroa
+Eduardo Figueroa  
 
-Sol Figueroa
-Jorge Flores
-Carlos Gimenez
-Cinthia Yael Gomez
-Monserrat Guitierrez
-Cecilia Heredia
-Walter Nieto
-Jorgelina Tissera
+Sol Figueroa  
+Jorge Flores  
+Carlos Gimenez  
+Cinthia Yael Gomez  
+Monserrat Guitierrez  
+Cecilia Heredia  
+Walter Nieto  
+Jorgelina Tissera  
 
 
 # tema del tp
