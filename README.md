@@ -17,9 +17,17 @@ Walter Nieto
 Jorgelina Tissera  
 
 
-# tema del tp
+# Tematica del proyecto
+Desarrollar un sistema de Machine Learning capaz de clasificar ataques cardíacos según el género del paciente. Esto permitirá una identificación temprana y precisa de los riesgos cardíacos basados en diferencias biológicas y comportamientos de género.
 
-Prediccion de afeccion Cardiaca
+
+# Objetivos:
+
+    - Desarrollar un modelo de clasificación de Machine Learning que pueda predecir ataques cardíacos con base en variables médicas y género, 
+
+    - Obtener un alto nivel de precisión y sensibilidad en la clasificación de ataques cardíacos por género.
+
+    - Integrar el modelo en una interfaz de usuario amigable y de fácil acceso para profesionales de la salud.
 
 # trello
 
