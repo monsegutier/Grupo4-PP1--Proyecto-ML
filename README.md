@@ -29,11 +29,13 @@ Desarrollar un sistema de Machine Learning capaz de clasificar ataques cardíaco
 
     - Integrar el modelo en una interfaz de usuario amigable y de fácil acceso para profesionales de la salud.
 
-# trello
+# Trello
 
 https://trello.com/w/proyectodeml1
 
+# Brief Canva
 
+[Brief](https://www.canva.com/design/DAFwme2slSI/tspWEMJ5-pZbnx-jFQUGlQ/edit)https://www.canva.com/design/DAFwme2slSI/tspWEMJ5-pZbnx-jFQUGlQ/edit
 
 
 
