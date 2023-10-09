@@ -35,7 +35,7 @@ https://trello.com/w/proyectodeml1
 
 # Brief Canva
 
-[Brief](https://www.canva.com/design/DAFwme2slSI/tspWEMJ5-pZbnx-jFQUGlQ/edit)https://www.canva.com/design/DAFwme2slSI/tspWEMJ5-pZbnx-jFQUGlQ/edit
+[Brief](https://www.canva.com/design/DAFwme2slSI/tspWEMJ5-pZbnx-jFQUGlQ/edit)
 
 
 
