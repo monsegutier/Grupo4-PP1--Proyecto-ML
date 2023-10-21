@@ -34,6 +34,10 @@ Desarrollar un sistema de Machine Learning capaz de clasificar ataques cardíaco
 https://trello.com/w/proyectodeml1
 
 
+# Colab
+
+https://colab.research.google.com/github/monsegutier/Grupo4-PP1--Proyecto-ML/blob/main/PP1_GRUPO_4.ipynb
+
 
 
 
